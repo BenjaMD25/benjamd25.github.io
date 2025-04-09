@@ -31,3 +31,5 @@ Cargo de representante generacional frente a CEE y Dirección Institucional de l
 Colegio Bicentenario Pasión de Jesús
 * Excelencia Académica en la Enseñanza Media.
 * Tesorería de Dirección Estudiantil Generación 2019.
+
+Agradecimiento a mis profesores y profesoras del IMA.
