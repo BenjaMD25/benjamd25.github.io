@@ -1,2 +1,2 @@
-# benjamd25.github.io
+# Benjamin Maturana Duran
 Página Web con información académica, profesional y laboral de Benjamín Maturana Durán.
