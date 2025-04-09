@@ -1,13 +1,3 @@
-# Repositorio de Benjamín Maturana Durán
-
-El presente repositorio comprende los siguientes elementos:
-* Carpeta Programación Avanzada
-
-  Esta carpeta incluye las resoluciones de las tareas realizadas para la Unidad 1 y Unidad 2 del curso Programación Avanzada.
-* Página WEB del Autor
-
-  Una página web del autor con formato de CV, resumiendo su carrera académica, profesional y laboral.
-
 <h1> Benjamin Maturana Duran </h1>
 
 ![IMG_20240203_193921](https://github.com/user-attachments/assets/bcd1897f-b829-40fb-b046-1d4fcea29ada)
