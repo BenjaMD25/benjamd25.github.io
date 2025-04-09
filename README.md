@@ -1,5 +1,7 @@
 <h1> Benjamin Maturana Duran </h1>
+
 ![IMG_20240203_193921](https://github.com/user-attachments/assets/bcd1897f-b829-40fb-b046-1d4fcea29ada)
+
 # Experiencia Laboral
 * Operador de Tienda Lider 2025
 Empleado en áreas de Sala, Producción y Pago en Hiper Líder Limache durante febrero, marzo y abril de 2025.
