@@ -15,8 +15,10 @@ Clases particulares a estudiantes de secundaria entre 12 y 15 años.
 Ayudantía a curso de Programación de las carreras Pedagogía y Licenciatura en Matemáticas, PUCV.
 
 # Educación
+
 ### Profesor de Matemáticas 2020-2024
 Pontificia Universidad Católica de Valparaíso
+
 ### Estudiante Licenciatura en Matemáticas 2020-actualidad
 Pontificia Universidad Católica de Valparaíso
 * Prácticas Profesionales 2022-2024
@@ -25,6 +27,7 @@ Trabajos temporales en cuatro establecimientos chilenos de secundaria. Ejerciend
 Pasantía de un semestre en Universidade de Vigo, Pontevedra, España. Convalidación de dos cursos de Educación Primaria.
 * Delegación Generacional Universitaria 2021-actualidad
 Cargo de representante generacional frente a CEE y Dirección Institucional de las carreras Pedagogía y Licenciatura en Matemáticas, PUCV.
+
 ### Licencia de Enseñanza Media 2016-2019
 Colegio Bicentenario Pasión de Jesús
 * Excelencia Académica en la Enseñanza Media.
