@@ -30,5 +30,5 @@ Cargo de representante generacional frente a CEE y Dirección Institucional de l
 
 ### Licencia de Enseñanza Media 2016-2019
 Colegio Bicentenario Pasión de Jesús
-* Excelencia Académica en la Enseñanza Media. \\
+* Excelencia Académica en la Enseñanza Media.
 * Tesorería de Dirección Estudiantil Generación 2019.
