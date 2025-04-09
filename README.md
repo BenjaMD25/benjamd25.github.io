@@ -17,7 +17,6 @@ Ayudantía a curso de Programación de las carreras Pedagogía y Licenciatura en
 # Educación
 
 ### Profesor de Matemáticas 2020-2024
-Pontificia Universidad Católica de Valparaíso
 
 ### Estudiante Licenciatura en Matemáticas 2020-actualidad
 Pontificia Universidad Católica de Valparaíso
